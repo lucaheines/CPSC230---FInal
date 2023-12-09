@@ -16,3 +16,5 @@ https://pysource.com/2023/03/28/object-detection-with-yolo-v8-on-mac-m1/
 https://www.youtube.com/watch?v=QV85eYOb7gk
 https://dev.to/andreygermanov/how-to-create-yolov8-based-object-detection-web-service-using-python-julia-nodejs-javascript-go-and-rust-4o8e
 
+And so much more.......
+
