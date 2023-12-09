@@ -2,7 +2,7 @@
 My final Project
 
 What it does:
-This code detects people from multiple angles, and gives an output on whether it is, or isn't safe for a vehicle to drive forward. This could potentially be used for self driving cars, trafficlights, etc.
+This code detects people from multiple angles, and gives an output on whether it is, or isn't safe for a vehicle to drive forward. This could potentially be used for self driving cars, traffic lights, etc.
 
 
 Bsckground: 
