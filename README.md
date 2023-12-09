@@ -1,6 +1,11 @@
 # CPSC230---FInal
 My final Project
 
+What it does:
+This code detects people from multiple angles, and gives an output on whether it is, or isn't safe for a vehicle to drive forward. This could potentially be used for self driving cars, trafficlights, etc.
+
+
+Bsckground: 
 This final took a lot of time and research, the code used in this final was written by me, however was heavily influenced by research online. This project was difficult, and somewhat out of my range and skill, however using online resources I was able to come up with something I thought was pretty neat. I installed Ultralytics(which uses YOLOv8) on Python version 3.11.6, to complete this project. In the future I would like to make a script using only basic python functions, pandas, opencv, and maybe a few math based libraries, however i'm not fully there yet. I would love to also train my own dataset to detect more specific objects. Overall this is all very new to me, and I am trying my very best to learn, so I hope everything I have said made a little bit of sense!!!!!!! 
 
 
